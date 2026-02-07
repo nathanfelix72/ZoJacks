@@ -2,10 +2,6 @@
 
 Minimal web app: React frontend fetches from a Lambda Function URL (Python) that reads from DynamoDB. No API Gateway.
 
-## Goal
-
-Single HTTP endpoint that returns JSON. React displays it. That's it—no auth, no writes, no complex routing.
-
 ## Architecture
 
 ```
